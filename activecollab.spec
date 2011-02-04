@@ -27,7 +27,7 @@ and project management tool. Set up an environment where you, your
 team and your clients can collaborate on active projects using a set
 of simple, functional tools.
 
-%description
+%description -l pl.UTF-8
 activeCollab to łatwe w użyciu, oparte o WWW, mające otwarte źródła
 narzędzie do współpracy i zarządzania projektami. Wystarczy uruchomić
 środowisko w miejscu gdzie zespół i klienci mogą współpracować nad
